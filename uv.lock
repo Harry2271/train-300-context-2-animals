@@ -1025,14 +1025,14 @@ wheels = [
 
 [[package]]
 name = "toy-gpt-train-300-context-2"
-version = "0.9.3"
+version = "0.9.4"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "datafun-toolkit" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/62/ba/2ebbdf69171514fa9dd73ca2644f4e5e384ee71108bff3434bd3b7bde4dc/toy_gpt_train_300_context_2-0.9.3.tar.gz", hash = "sha256:6a926c164d4abacc9b749571390c29810af6d8640bd956a5bffb0f016abcd7f7", size = 81478, upload-time = "2026-01-18T20:38:51.38Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/8f/52/da9c915f64a503e0e07a9ee65c2c16452ef446257b33b541e0e57856b4a0/toy_gpt_train_300_context_2-0.9.4.tar.gz", hash = "sha256:8f9cb7627963c991bbf516a719481f59633f3f023d702454bb8d2d35d9b7bf6c", size = 81698, upload-time = "2026-01-19T01:24:46.888Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/48/c6/107effd45e658cfc87aa55056022ecace661bb41561196d8f87c32a13649/toy_gpt_train_300_context_2-0.9.3-py3-none-any.whl", hash = "sha256:d8e7248325eb3920cd426df3fe8b4a32abaedf83cc827d39b00b3429f5b06190", size = 23283, upload-time = "2026-01-18T20:38:49.663Z" },
+    { url = "https://files.pythonhosted.org/packages/dd/8b/f1baf9f8ad0c300dc349b175fbc80a9662024566a94df9ba41b77a240743/toy_gpt_train_300_context_2-0.9.4-py3-none-any.whl", hash = "sha256:6d8f6baa32075f800e66ef6cf54a270faf2259423bed254736a45ba1264fbd47", size = 23385, upload-time = "2026-01-19T01:24:45.631Z" },
 ]
 
 [[package]]
@@ -1080,7 +1080,7 @@ requires-dist = [
     { name = "pytest", marker = "extra == 'dev'", specifier = ">=9.0.2" },
     { name = "pytest-cov", marker = "extra == 'dev'", specifier = ">=7.0.0" },
     { name = "ruff", marker = "extra == 'dev'", specifier = ">=0.14.13" },
-    { name = "toy-gpt-train-300-context-2", specifier = ">=0.9.3" },
+    { name = "toy-gpt-train-300-context-2", specifier = ">=0.9.4" },
     { name = "twine", marker = "extra == 'dev'", specifier = ">=6.2.0" },
     { name = "validate-pyproject", marker = "extra == 'dev'", specifier = ">=0.24.1" },
 ]

@@ -42,7 +42,7 @@ classifiers = [
 dependencies = [
     # REQ.DEPS: External packages used by the project code.
     "datafun-toolkit>=0.9.4",
-    "toy-gpt-train-300-context-2>=0.9.3",
+    "toy-gpt-train-300-context-2>=0.9.4",
 ]
 
 [project.optional-dependencies]
